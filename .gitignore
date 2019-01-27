@@ -62,3 +62,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 Oh Deer/ProjectSettings/ProjectVersion\.txt
+
+# Webpack
+node_modules/
+*.log
+dist/
